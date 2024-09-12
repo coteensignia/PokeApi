@@ -12,7 +12,7 @@ export default {
   data() {
     return {
       userInput: '', // adivinación del usuario
-      correct: false // variable para saber si ha sido encontrado
+      correct: false // variable si ha sido encontrado
     }
   },
   methods: {
